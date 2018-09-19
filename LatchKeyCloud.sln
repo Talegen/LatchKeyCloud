@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatchKeyCloud", "LatchKeyCloud\LatchKeyCloud.csproj", "{315F8413-2279-4740-BB70-469901DD5FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatchKeyCloud.Tests", "LatchKeyCloud.Tests\LatchKeyCloud.Tests.csproj", "{AA2EC115-8A8D-40E4-9C63-D7F344F76FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315F8413-2279-4740-BB70-469901DD5FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315F8413-2279-4740-BB70-469901DD5FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315F8413-2279-4740-BB70-469901DD5FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315F8413-2279-4740-BB70-469901DD5FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2EC115-8A8D-40E4-9C63-D7F344F76FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2EC115-8A8D-40E4-9C63-D7F344F76FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2EC115-8A8D-40E4-9C63-D7F344F76FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2EC115-8A8D-40E4-9C63-D7F344F76FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737C0461-F7A2-45AB-9DD6-BA4BE0FDE9EA}
+	EndGlobalSection
+EndGlobal
